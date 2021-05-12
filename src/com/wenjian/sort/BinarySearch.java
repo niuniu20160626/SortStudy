@@ -6,7 +6,7 @@ import java.util.Objects;
 /**
  * 二分查找算法
  *
- * @author nn
+ * @author niuniu
  * @date 2021/5/11 - 14:06
  */
 public class BinarySearch {
